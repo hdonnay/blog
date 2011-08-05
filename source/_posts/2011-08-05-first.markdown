@@ -1,0 +1,9 @@
+---
+layout: post
+title: "First"
+date: 2011-08-05 03:48
+comments: false
+categories: bullshit
+---
+##This is the first post.
+This thing is only going up so my server doesn't look hella bare.
