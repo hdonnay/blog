@@ -3,7 +3,7 @@ require "bundler/setup"
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
-ssh_user       = "hank@localhost"
+ssh_user       = "hank@monolith.hank.lolwut.net"
 document_root  = "/srv/http"
 deploy_default = "rsync"
 
@@ -164,7 +164,7 @@ end
 desc "Deploy website via rsync"
 task :rsync do
   puts "## Deploying website via Rsync"
-  ok_failed system("rsync -avzO --delete #{public_dir}/ #{document_root}")
+  ok_failed system("rsync -avzO --delete #{public_dir}/ #{ssh_user}:#{document_root}")
 end
 
 desc "deploy public directory to github pages"
