@@ -2,6 +2,24 @@
 layout: post
 title: "IPv6"
 date: 2011-08-06 01:28
-comments: true
-categories: 
+comments: false
+categories: network
 ---
+I've been doing some home network improvements, namely upgrading it to
+dual IP v4/v6. The benefit that convinced me was www.he.net giving out a
+free /48, which would allow me to access one Internet's worth of
+machines from behind a single public IPv4. The current state of home
+networking is a sad, sad affair where you get one multiply NAT'ed IP
+address. The fine print says you need to pay up for an IP for every
+machine behind the modem, but c'mon. No one does this.
+
+And so, as of this writing, I have a website (this one), a mailserver,
+some assorted daemons, and and all my machines accessable via IPv6 only.
+
+The process was acutally mad easy, because HE's documentation, while
+spartan, works really well. The main stumbling block I had was not
+assigning my NIC an IP address. In hindsight, this seems obvious, but
+seeing as how my setup (a single NIC IPv6 gateway) isn't exactly common, I can forgive that it's not spelled out anywhere.
+
+The mailserver (postfix) is being a pain in the ass, but I think that's
+to be expected.
