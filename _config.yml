@@ -2,14 +2,14 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://hdonnay.com
+url: http://hdonnay.com/blog
 title: hank blog
 subtitle: A journey in unremarkability.
 author: Hank Donnay
 simple_search: http://google.com/search
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss: /blog/atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
@@ -23,7 +23,7 @@ root: /blog
 port: 4000
 permalink: /blog/:year/:month/:day/:title/
 source: source
-destination: public
+destination: public/blog
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
