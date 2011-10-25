@@ -8,6 +8,8 @@ footer: true
 ##Who am I?
 I'm just 'zis guy, you know?
 
-I'm a student and jr. sysadmin at The University of Minnesota. I follow
-several open-source projects and try to contribute documentation
-regularly to the ones I use.
+This is my blog about random changes I make to my systems, general
+whining, and anything that catches my fancy.
+
+If you want to know about me in a more proper fashon, try going to the
+main site.
