@@ -13,9 +13,10 @@ hdonnay.com runs on.
 <!--more-->
 It used to be Apache, the "default" webserver, but I've changed it to
 nginx. Why? Two reasons:
-    * The site is almost completely static files, which nginx does
+
+ * The site is almost completely static files, which nginx does
       better than Apache.
-    * I hadn't changed anything on the server for almost two weeks.
+ * I hadn't changed anything on the server for almost two weeks.
 
 The home server still runs Apache, but the traffic is so low there and
 it's mostly used for proxying to other apps, so I don't think that it
