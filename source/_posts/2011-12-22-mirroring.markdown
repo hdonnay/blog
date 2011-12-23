@@ -16,3 +16,6 @@ hooks like so:
     git push --mirror git@github.com:hdonnay/project.git
 
 Really damn easy, but not automated, which is lame.
+
+I'm thinking about making some improvements to gitolite's mirroring
+code, but I don't think it'd be accepted into mainline...
