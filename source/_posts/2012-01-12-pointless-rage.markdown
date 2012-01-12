@@ -18,7 +18,7 @@ changed. Part of the reason is I discovered I suffered from
 [Dysthymia][dys], the other part is that I realized I'd been lied to as
 to the way education works here in the US.
 
-{% img left http://hdonnay.com/images/clerks_guidance.png "Guidance Counselor" "My guidance counselor was pretty useless, come to think of it..." %}
+{% img left http://hdonnay.com/blog/images/clerks_guidance.png "Guidance Counselor" "My guidance counselor was pretty useless, come to think of it..." %}
 There's a leitmotif in education that you may not have heard in your
 education, and it is "it'll get better." My guidance counselor, when I
 told him my classes were boring and uninteresting, claimed since middle
