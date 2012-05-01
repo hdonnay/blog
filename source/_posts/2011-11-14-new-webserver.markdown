@@ -21,3 +21,4 @@ nginx. Why? Two reasons:
 The home server still runs Apache, but the traffic is so low there and
 it's mostly used for proxying to other apps, so I don't think that it
 justifies all the reconfiguring that it would entail.
+/* vim: set filetype=octopress : */

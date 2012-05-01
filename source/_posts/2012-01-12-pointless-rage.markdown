@@ -36,3 +36,4 @@ and I like to think I'm good at it, and it seemingly counts for nothing.
 I need a piece of paper to say that, and it sucks.
 
 [dys]: http://en.wikipedia.org/wiki/Dysthymia
+/* vim: set filetype=octopress : */

@@ -19,3 +19,4 @@ Really damn easy, but not automated, which is lame.
 
 I'm thinking about making some improvements to gitolite's mirroring
 code, but I don't think it'd be accepted into mainline...
+/* vim: set filetype=octopress : */

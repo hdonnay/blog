@@ -62,3 +62,4 @@ but Apache works just fine, and comes packaged on this EC2 instance.
 [couchpotato]: http://www.couchpotatoapp.com/
 [headphones]: https://github.com/rembo10/headphones
 [octopress]: http://www.octopress.org/
+/* vim: set filetype=octopress : */

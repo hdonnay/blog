@@ -7,3 +7,4 @@ categories: bullshit
 ---
 ##This is the first post.
 This thing is only going up so my server doesn't look hella bare.
+/* vim: set filetype=octopress : */

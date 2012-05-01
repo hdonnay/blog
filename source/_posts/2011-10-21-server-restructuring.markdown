@@ -27,3 +27,4 @@ OpenELEC, which looks to be easier to administrate.
 Also, repo.hdonnay.net has been set up as a CNAME to bitbucket.org, so
 if you want to pretend that I'm providing you with git and mercurial
 hosting, go ahead.
+/* vim: set filetype=octopress : */
